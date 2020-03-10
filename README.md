@@ -171,7 +171,7 @@ $ git clone https://github.com/nishitpatel01/Fake_News_Detection.git
 
 
 
-<b> Running the project</b>
+<b> Running the project</b><br>
 To run the project open the file 'login.py'
 <br>
 Username is 'Nabeel'
